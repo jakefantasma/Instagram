@@ -1,0 +1,16 @@
+{
+	"ConfigRequest":{
+		"AuthorInformation":{
+			"Nombres":"Carlos caballeros",
+			"Img":"https://png.pngtree.com/element_origin_min_pic/16/08/05/1157a405fa72d15.jpg", 
+			"Instagram":"https://www.instagram.com/0_0_9_9_/", 
+			"Facebook":"",
+			"Tw":""},
+		"Version":0.1,
+		"Info":{
+			"Key":["a","b"],
+			"elementos":{}	
+		},
+		"DomineSupport":["https://Instagram"]
+	}
+}
